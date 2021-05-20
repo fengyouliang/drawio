@@ -1,14 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T08:51:41.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Xq9znELWjhnQuCLEWMh9" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T09:03:04.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="ieQ7EntYm3Xgi7m1oitx" version="14.6.13" type="github">
   <diagram id="A-h0lrvTjeAYcHSZ_BaI" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oC0q2E-RNgL5OstwpmyZ-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="90" y="210" width="595" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="oC0q2E-RNgL5OstwpmyZ-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="280" y="630" width="570" height="250" as="geometry" />
+          <mxGeometry x="90" y="230" width="595" height="400" as="geometry" />
         </mxCell>
         <mxCell id="oC0q2E-RNgL5OstwpmyZ-47" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=14;align=left;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="oC0q2E-RNgL5OstwpmyZ-6" target="oC0q2E-RNgL5OstwpmyZ-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -21,57 +18,23 @@
             <mxPoint x="160" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oC0q2E-RNgL5OstwpmyZ-28" value="5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="oC0q2E-RNgL5OstwpmyZ-27">
-          <mxGeometry x="0.1019" y="2" relative="1" as="geometry">
-            <mxPoint x="-54" y="29" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oC0q2E-RNgL5OstwpmyZ-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="oC0q2E-RNgL5OstwpmyZ-1" target="oC0q2E-RNgL5OstwpmyZ-4">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oC0q2E-RNgL5OstwpmyZ-34" value="3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="oC0q2E-RNgL5OstwpmyZ-33">
-          <mxGeometry x="-0.13" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="oC0q2E-RNgL5OstwpmyZ-1" value="UI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="390" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oC0q2E-RNgL5OstwpmyZ-35" value="4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="oC0q2E-RNgL5OstwpmyZ-4" target="oC0q2E-RNgL5OstwpmyZ-1">
-          <mxGeometry x="0.1" relative="1" as="geometry">
+        <mxCell id="oC0q2E-RNgL5OstwpmyZ-35" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="oC0q2E-RNgL5OstwpmyZ-4" target="oC0q2E-RNgL5OstwpmyZ-1">
+          <mxGeometry x="0.1" y="-20" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oC0q2E-RNgL5OstwpmyZ-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=14;align=left;" edge="1" parent="1" source="oC0q2E-RNgL5OstwpmyZ-4" target="oC0q2E-RNgL5OstwpmyZ-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oC0q2E-RNgL5OstwpmyZ-42" value="7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="oC0q2E-RNgL5OstwpmyZ-41">
-          <mxGeometry x="-0.22" y="2" relative="1" as="geometry">
-            <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oC0q2E-RNgL5OstwpmyZ-4" value="Proxy" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="390" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oC0q2E-RNgL5OstwpmyZ-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=14;align=left;" edge="1" parent="1" source="oC0q2E-RNgL5OstwpmyZ-5" target="oC0q2E-RNgL5OstwpmyZ-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oC0q2E-RNgL5OstwpmyZ-44" value="8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="oC0q2E-RNgL5OstwpmyZ-43">
-          <mxGeometry x="0.1967" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oC0q2E-RNgL5OstwpmyZ-5" value="Agent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="390" y="790" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="oC0q2E-RNgL5OstwpmyZ-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" target="oC0q2E-RNgL5OstwpmyZ-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="440" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oC0q2E-RNgL5OstwpmyZ-10" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="oC0q2E-RNgL5OstwpmyZ-7">
-          <mxGeometry x="-0.0564" y="-3" relative="1" as="geometry">
-            <mxPoint x="85" y="-57" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oC0q2E-RNgL5OstwpmyZ-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="oC0q2E-RNgL5OstwpmyZ-6" target="oC0q2E-RNgL5OstwpmyZ-4">
@@ -82,30 +45,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oC0q2E-RNgL5OstwpmyZ-38" value="6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="oC0q2E-RNgL5OstwpmyZ-31">
-          <mxGeometry x="0.2125" y="2" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oC0q2E-RNgL5OstwpmyZ-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="120" y="430" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="oC0q2E-RNgL5OstwpmyZ-15" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;quick start&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;1. 初始化DB，写入一些基本信息&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;2. 启动Proxy，proxy在启动时会向ZK中注册自身信息&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;3. 启动Agent&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;4. 启动UI&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="90" y="30" width="340" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="oC0q2E-RNgL5OstwpmyZ-48" value="Application" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="650" y="790" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="oC0q2E-RNgL5OstwpmyZ-50" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=14;align=left;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oC0q2E-RNgL5OstwpmyZ-5" target="oC0q2E-RNgL5OstwpmyZ-48">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="760" as="sourcePoint" />
-            <mxPoint x="650" y="710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oC0q2E-RNgL5OstwpmyZ-51" value="attach" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBorderColor=none;" vertex="1" connectable="0" parent="oC0q2E-RNgL5OstwpmyZ-50">
-          <mxGeometry x="0.2143" y="1" relative="1" as="geometry">
-            <mxPoint x="-15" y="1" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="oC0q2E-RNgL5OstwpmyZ-56" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=14;align=left;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.008;entryY=0.273;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oC0q2E-RNgL5OstwpmyZ-1" target="oC0q2E-RNgL5OstwpmyZ-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -120,28 +61,60 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oC0q2E-RNgL5OstwpmyZ-59" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="740" y="280" width="940" height="320" as="geometry" />
+          <mxGeometry x="740" y="230" width="940" height="420" as="geometry" />
         </mxCell>
         <mxCell id="oC0q2E-RNgL5OstwpmyZ-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="oC0q2E-RNgL5OstwpmyZ-59">
-          <mxGeometry width="240" height="300" as="geometry" />
+          <mxGeometry width="240" height="400" as="geometry" />
         </mxCell>
         <mxCell id="oC0q2E-RNgL5OstwpmyZ-2" value="DB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="oC0q2E-RNgL5OstwpmyZ-59">
-          <mxGeometry x="60" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="52.5" width="120" height="78.75" as="geometry" />
         </mxCell>
         <mxCell id="oC0q2E-RNgL5OstwpmyZ-3" value="Zookeeper" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="oC0q2E-RNgL5OstwpmyZ-59">
-          <mxGeometry x="60" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="262.5" width="120" height="78.75" as="geometry" />
         </mxCell>
         <mxCell id="oC0q2E-RNgL5OstwpmyZ-17" value="&lt;font style=&quot;font-size: 18px&quot;&gt;DB供UI和Proxy使用，存储了一些application，user，profiler等表&lt;br&gt;比如UI可以注册用户，以及读取profiler的内容，Proxy会将profiler信息存储&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;" vertex="1" parent="oC0q2E-RNgL5OstwpmyZ-59">
-          <mxGeometry x="250" y="50" width="600" height="40" as="geometry" />
+          <mxGeometry x="260" y="71.875" width="600" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oC0q2E-RNgL5OstwpmyZ-26" value="&lt;font&gt;&lt;span style=&quot;font-size: 18px ; background-color: rgb(255 , 255 , 255)&quot;&gt;ZK被Proxy启动，proxy启动时会将自身信息注册，用于UI发现proxy&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;ZK address：127.0.0.1:2181&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px ; letter-spacing: -0.08px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;node /bistoury/proxy/new/group/ui/10.0.0.74:9090:9881&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;9090是Proxy的tomcat的端口，9881是UI和Proxy通信（WebSocket）的端口&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;" vertex="1" parent="oC0q2E-RNgL5OstwpmyZ-59">
-          <mxGeometry x="250" y="165" width="620" height="130" as="geometry" />
+          <mxGeometry x="260" y="236.8725" width="620" height="130" as="geometry" />
         </mxCell>
         <mxCell id="oC0q2E-RNgL5OstwpmyZ-62" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Agent和Proxy的连接&lt;br&gt;&lt;br&gt;1. agent通过配置的域名向Proxy（ip:9090）发起访问&lt;br&gt;2. proxy会返回自身连接信息&lt;br&gt;3. agent根据返回的内容，建立netty连接，并保持一个心跳&lt;br&gt;&lt;br&gt;data: {&quot;ip&quot;:&quot;10.0.0.74&quot;,&quot;port&quot;:9880,&quot;heartbeatSec&quot;:30}&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="280" y="930" width="480" height="170" as="geometry" />
+          <mxGeometry x="1000" y="690" width="480" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="oC0q2E-RNgL5OstwpmyZ-63" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;一次命令执行的过程&lt;br&gt;&lt;/font&gt;&lt;br&gt;1. UI从DB获取应用所在IP地址，从ZK中获取所有存活的Proxy，找到对应agent所在Proxy&lt;br&gt;2. 和找到的Proxy建立WebSocket（ip:9881）连接&lt;br&gt;3. UI发送命令，由Proxy转发到对应Agent&lt;br&gt;4. Agent执行命令并返回给Proxy&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;gradientColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="650" y="30" width="720" height="110" as="geometry" />
+        <mxCell id="oC0q2E-RNgL5OstwpmyZ-63" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;一次命令执行的过程&lt;br&gt;&lt;/font&gt;&lt;br&gt;1. UI从DB获取应用所在IP地址，从ZK中获取所有存活的Proxy，找到对应agent所在Proxy&lt;br&gt;2. 和找到的Proxy建立WebSocket（ip:9881）连接&lt;br&gt;3. 用户访问UI（IP:9091）执行操作，UI发送命令，由Proxy转发到对应Agent&lt;br&gt;4. Agent执行命令并返回给Proxy，最终由UI渲染到浏览器&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1020" width="720" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oC0q2E-RNgL5OstwpmyZ-65" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" y="650" width="890" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="oC0q2E-RNgL5OstwpmyZ-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="oC0q2E-RNgL5OstwpmyZ-65">
+          <mxGeometry width="890" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="oC0q2E-RNgL5OstwpmyZ-5" value="Agent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="oC0q2E-RNgL5OstwpmyZ-65">
+          <mxGeometry x="277.8978947368421" y="95" width="164.21052631578948" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oC0q2E-RNgL5OstwpmyZ-48" value="Application" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="oC0q2E-RNgL5OstwpmyZ-65">
+          <mxGeometry x="569.9973684210527" y="95" width="164.21052631578948" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oC0q2E-RNgL5OstwpmyZ-50" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=14;align=left;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="oC0q2E-RNgL5OstwpmyZ-65" source="oC0q2E-RNgL5OstwpmyZ-5" target="oC0q2E-RNgL5OstwpmyZ-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410.5263157894737" y="110" as="sourcePoint" />
+            <mxPoint x="478.94736842105266" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oC0q2E-RNgL5OstwpmyZ-51" value="attach" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBorderColor=none;" vertex="1" connectable="0" parent="oC0q2E-RNgL5OstwpmyZ-50">
+          <mxGeometry x="0.2143" y="1" relative="1" as="geometry">
+            <mxPoint x="-15" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oC0q2E-RNgL5OstwpmyZ-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.322;entryY=-0.01;entryDx=0;entryDy=0;fontSize=14;align=left;entryPerimeter=0;" edge="1" parent="1" source="oC0q2E-RNgL5OstwpmyZ-4" target="oC0q2E-RNgL5OstwpmyZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oC0q2E-RNgL5OstwpmyZ-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.68;exitY=-0.019;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=14;align=left;exitPerimeter=0;" edge="1" parent="1" source="oC0q2E-RNgL5OstwpmyZ-5" target="oC0q2E-RNgL5OstwpmyZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oC0q2E-RNgL5OstwpmyZ-66" value="&lt;div style=&quot;text-align: left ; font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;quick start&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;1. 初始化DB，写入一些基本信息&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;2. 启动Proxy，proxy在启动时会向ZK中注册自身信息&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;3. 启动Agent&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;4. 启动UI&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 18px&quot;&gt;&lt;span&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="25" width="440" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
