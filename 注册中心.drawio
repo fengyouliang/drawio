@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-10T15:05:07.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="KpdUDrQtwPRGsgUyZWgH" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-10T15:05:16.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="9oR2YoUNECf2bC2dkV4z" version="14.9.5" type="github">
   <diagram id="2iD1uwLVrEYLkPj4rfC0" name="第 1 页">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -203,11 +203,20 @@
         <mxCell id="YrsrtHYI-QYg7MPrzIgh-66" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="250" y="3300" width="190" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="YrsrtHYI-QYg7MPrzIgh-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YrsrtHYI-QYg7MPrzIgh-69" target="YrsrtHYI-QYg7MPrzIgh-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YrsrtHYI-QYg7MPrzIgh-69" value="获取远程数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="228.75" y="2970" width="232.5" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="YrsrtHYI-QYg7MPrzIgh-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YrsrtHYI-QYg7MPrzIgh-70" target="YrsrtHYI-QYg7MPrzIgh-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YrsrtHYI-QYg7MPrzIgh-70" value="更新本地缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="228.75" y="3080" width="232.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YrsrtHYI-QYg7MPrzIgh-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YrsrtHYI-QYg7MPrzIgh-71" target="YrsrtHYI-QYg7MPrzIgh-66">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrsrtHYI-QYg7MPrzIgh-71" value="更新本地快照" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="228.75" y="3190" width="232.5" height="80" as="geometry" />
