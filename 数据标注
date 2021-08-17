@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-17T22:51:43.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="hSnJU3-FL1pN30aXUDAK" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-17T22:59:49.536Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="qYUWD5kmGf6ZI2B77JyO" version="14.9.7" type="github">
   <diagram id="jvB_NInRN-joisWROVgk" name="Page-1">
     <mxGraphModel dx="981" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -327,6 +327,124 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="2450" as="sourcePoint" />
             <mxPoint x="670" y="2450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-32" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 4;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="3030" as="sourcePoint" />
+            <mxPoint x="90" y="2710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-33" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="2760" as="sourcePoint" />
+            <mxPoint x="230" y="2760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-34" value="进行人工标注" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NjmwlDJ-GiCbVzu658uJ-33">
+          <mxGeometry x="-0.0769" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-35" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="180" y="2670" width="100" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-36" value="前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NjmwlDJ-GiCbVzu658uJ-35">
+          <mxGeometry width="100" height="40.909090909090914" as="geometry" />
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-37" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 4;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="NjmwlDJ-GiCbVzu658uJ-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="49.5" y="360" as="sourcePoint" />
+            <mxPoint x="49.5" y="40.909090909090914" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-38" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="322" y="2670" width="100" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-39" value="预标注服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NjmwlDJ-GiCbVzu658uJ-38">
+          <mxGeometry width="100" height="40.909090909090914" as="geometry" />
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-40" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 4;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="NjmwlDJ-GiCbVzu658uJ-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="49" y="360" as="sourcePoint" />
+            <mxPoint x="49" y="40.909090909090914" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-41" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="470" y="2670" width="100" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-42" value="Flask后端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NjmwlDJ-GiCbVzu658uJ-41">
+          <mxGeometry width="100" height="40.909090909090914" as="geometry" />
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-43" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 4;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="NjmwlDJ-GiCbVzu658uJ-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="49.5" y="360" as="sourcePoint" />
+            <mxPoint x="49.5" y="40.909090909090914" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-56" value="" style="endArrow=classic;html=1;" edge="1" parent="NjmwlDJ-GiCbVzu658uJ-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="180" as="sourcePoint" />
+            <mxPoint x="-100" y="179.65999999999985" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-57" value="返回预标注结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NjmwlDJ-GiCbVzu658uJ-56">
+          <mxGeometry x="0.1621" y="1" relative="1" as="geometry">
+            <mxPoint x="13" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-44" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="600" y="2670" width="100" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-45" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NjmwlDJ-GiCbVzu658uJ-44">
+          <mxGeometry width="100" height="40.909090909090914" as="geometry" />
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-46" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 4;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="NjmwlDJ-GiCbVzu658uJ-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="49.5" y="360" as="sourcePoint" />
+            <mxPoint x="49.5" y="40.909090909090914" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-47" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="2790" as="sourcePoint" />
+            <mxPoint x="370" y="2790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-48" value="选择算法预标注" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NjmwlDJ-GiCbVzu658uJ-47">
+          <mxGeometry x="-0.3385" y="-3" relative="1" as="geometry">
+            <mxPoint x="17" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-49" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2670" width="100" height="40.909090909090914" as="geometry" />
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-50" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="2820" as="sourcePoint" />
+            <mxPoint x="520" y="2820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-51" value="发送数据至flask后端" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NjmwlDJ-GiCbVzu658uJ-50">
+          <mxGeometry x="-0.0983" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-52" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="2910" as="sourcePoint" />
+            <mxPoint x="230" y="2910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-53" value="展示标注" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NjmwlDJ-GiCbVzu658uJ-52">
+          <mxGeometry x="0.1621" y="1" relative="1" as="geometry">
+            <mxPoint x="13" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjmwlDJ-GiCbVzu658uJ-54" value="保存标注结果" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="2880" as="sourcePoint" />
+            <mxPoint x="650" y="2880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
