@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T01:22:33.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="r9hWKfun7gVbnB_Bynqb" version="15.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T01:59:27.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="wFMGVApy9FX4bvnP9ree" version="15.1.2" type="github">
   <diagram id="jvB_NInRN-joisWROVgk" name="Page-1">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zKHyCv5R9RX1HC5cDyXO-2" value="是否登陆" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="zKHyCv5R9RX1HC5cDyXO-2" value="是否登陆" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="255" y="850" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zKHyCv5R9RX1HC5cDyXO-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zKHyCv5R9RX1HC5cDyXO-3" target="zKHyCv5R9RX1HC5cDyXO-10" edge="1">
@@ -77,19 +77,19 @@
         <mxCell id="zKHyCv5R9RX1HC5cDyXO-20" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zKHyCv5R9RX1HC5cDyXO-12" target="zKHyCv5R9RX1HC5cDyXO-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zKHyCv5R9RX1HC5cDyXO-12" value="是否审核通过" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="zKHyCv5R9RX1HC5cDyXO-12" value="是否审核通过" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="255" y="1130" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vg3Dvo5usWiz9t2LMD-z-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zKHyCv5R9RX1HC5cDyXO-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="830" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="510" y="830" />
+              <mxPoint x="490" y="830" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zKHyCv5R9RX1HC5cDyXO-15" value="注册" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="450" y="850" width="120" height="60" as="geometry" />
+        <mxCell id="zKHyCv5R9RX1HC5cDyXO-15" value="注册" style="whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="865" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zKHyCv5R9RX1HC5cDyXO-25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 4;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -465,11 +465,11 @@
         <mxCell id="LxBCbpMUz2FaAuRVWbI7-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="312" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vg3Dvo5usWiz9t2LMD-z-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="280" y="760" width="100" height="60" as="geometry" />
+        <mxCell id="Vg3Dvo5usWiz9t2LMD-z-1" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="280" y="770" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Vg3Dvo5usWiz9t2LMD-z-2" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1270" width="100" height="60" as="geometry" />
+        <mxCell id="Vg3Dvo5usWiz9t2LMD-z-2" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1270" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
