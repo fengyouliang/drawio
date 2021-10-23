@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T01:58:25.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="vEJCbrLTiH7bTdA9LWm7" version="15.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-23T03:00:08.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="P69WnSL_2lEYsiMlV03t" version="15.5.8" type="github">
   <diagram id="CorUk7HUXJxeiM6xlHDV" name="Page-1">
-    <mxGraphModel dx="1422" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,19 +52,19 @@
         <mxCell id="OTtNzMurKzjWnPa9QM11-22" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="1240" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OTtNzMurKzjWnPa9QM11-31" value="用户名称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OTtNzMurKzjWnPa9QM11-31" value="输入用户名称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="1120" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OTtNzMurKzjWnPa9QM11-32" value="手机号" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OTtNzMurKzjWnPa9QM11-32" value="输入手机号" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="1180" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OTtNzMurKzjWnPa9QM11-33" value="用户部门" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OTtNzMurKzjWnPa9QM11-33" value="输入用户部门" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="1240" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OTtNzMurKzjWnPa9QM11-34" value="用户邮箱" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OTtNzMurKzjWnPa9QM11-34" value="输入用户邮箱" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="1360" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OTtNzMurKzjWnPa9QM11-35" value="验证码" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OTtNzMurKzjWnPa9QM11-35" value="输入验证码" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="1360" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OTtNzMurKzjWnPa9QM11-38" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OTtNzMurKzjWnPa9QM11-36" target="OTtNzMurKzjWnPa9QM11-37" edge="1">
@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OTtNzMurKzjWnPa9QM11-36" value="密码" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OTtNzMurKzjWnPa9QM11-36" value="输入密码" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="1300" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OTtNzMurKzjWnPa9QM11-37" value="确认密码" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -235,7 +235,7 @@
         <mxCell id="OTtNzMurKzjWnPa9QM11-92" value="是否登陆成功" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="223.5" y="2460" width="156.5" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="pmr0DdU4x19dyG2AMqiV-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTtNzMurKzjWnPa9QM11-96" target="pmr0DdU4x19dyG2AMqiV-2">
+        <mxCell id="pmr0DdU4x19dyG2AMqiV-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OTtNzMurKzjWnPa9QM11-96" target="pmr0DdU4x19dyG2AMqiV-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OTtNzMurKzjWnPa9QM11-96" value="登陆成功" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -755,10 +755,10 @@
         <mxCell id="akW8ou6p5QMJXCUjcevW-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="285" y="60" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pmr0DdU4x19dyG2AMqiV-1" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="pmr0DdU4x19dyG2AMqiV-1" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="247.75" y="2160" width="108" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pmr0DdU4x19dyG2AMqiV-2" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="pmr0DdU4x19dyG2AMqiV-2" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="252.63" y="2620" width="98.25" height="50" as="geometry" />
         </mxCell>
       </root>
