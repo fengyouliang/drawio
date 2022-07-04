@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T09:46:22.449Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="6URYZInm6KYsZxAW1JB1" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T09:48:28.434Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="akua7QGXrOBCZdYTrMYK" version="20.0.4" type="github">
   <diagram id="lDTodh5J8AndZFEe-JJb" name="Page-1">
     <mxGraphModel dx="1298" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KoPIXANO1AIOusYI-XiK-3" value="browser" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="110" y="190" width="80" height="550" as="geometry" />
+          <mxGeometry x="110" y="190" width="80" height="610" as="geometry" />
         </mxCell>
         <mxCell id="KoPIXANO1AIOusYI-XiK-4" value="web" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="190" width="80" height="550" as="geometry" />
+          <mxGeometry x="220" y="190" width="80" height="610" as="geometry" />
         </mxCell>
         <mxCell id="KoPIXANO1AIOusYI-XiK-5" value="team-service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="470" y="190" width="80" height="550" as="geometry" />
+          <mxGeometry x="470" y="190" width="80" height="610" as="geometry" />
         </mxCell>
         <mxCell id="KoPIXANO1AIOusYI-XiK-6" value="kiwi menu" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.1;entryY=0.225;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KoPIXANO1AIOusYI-XiK-3" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KoPIXANO1AIOusYI-XiK-7" value="kiwi" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="334" y="190" width="80" height="550" as="geometry" />
+          <mxGeometry x="334" y="190" width="80" height="610" as="geometry" />
         </mxCell>
         <mxCell id="KoPIXANO1AIOusYI-XiK-16" value="domain static" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" source="KoPIXANO1AIOusYI-XiK-4" target="KoPIXANO1AIOusYI-XiK-5" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -44,7 +44,9 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="370" y="490" as="sourcePoint" />
             <mxPoint x="370" y="490" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="200" y="440" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nBqyVD-DiwbrOBvCVqB2-3" value="callback set bit" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" source="KoPIXANO1AIOusYI-XiK-7" target="KoPIXANO1AIOusYI-XiK-4">
@@ -52,7 +54,7 @@
             <mxPoint x="450" y="490" as="sourcePoint" />
             <mxPoint x="370" y="490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="340" y="520" />
+              <mxPoint x="340" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -61,7 +63,7 @@
             <mxPoint x="370" y="490" as="sourcePoint" />
             <mxPoint x="450" y="490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="450" y="560" />
+              <mxPoint x="450" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -71,6 +73,33 @@
             <mxPoint x="450" y="490" as="targetPoint" />
             <Array as="points">
               <mxPoint x="200" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nBqyVD-DiwbrOBvCVqB2-6" value="return from kiwi" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" source="KoPIXANO1AIOusYI-XiK-7" target="KoPIXANO1AIOusYI-XiK-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="490" as="sourcePoint" />
+            <mxPoint x="370" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nBqyVD-DiwbrOBvCVqB2-8" value="call team service" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" source="KoPIXANO1AIOusYI-XiK-7" target="KoPIXANO1AIOusYI-XiK-5">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="370" y="490" as="sourcePoint" />
+            <mxPoint x="450" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nBqyVD-DiwbrOBvCVqB2-9" value="return from team service" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" source="KoPIXANO1AIOusYI-XiK-5" target="KoPIXANO1AIOusYI-XiK-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="490" as="sourcePoint" />
+            <mxPoint x="370" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>
